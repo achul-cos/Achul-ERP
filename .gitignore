@@ -1,0 +1,12 @@
+# Odoo
+odoo/
+
+# Python Virtual Envrionment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Odoo Configuration
+odoo_config.conf
