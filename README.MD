@@ -27,7 +27,7 @@ Untuk dapat menginstall dan menggunakan projet ini, pada perangkat anda diperluk
 | Nama | Versi | Keterangan |
 |------|-------|------------|
 | Python | 3.8 | Disarankan menggunakan pada versi ini|
-| PostgresSQL| 13 | Disaranakn menggunakan pada versi ini dengan locale en-us|
+| PostgresSQL| 13 | Disarankan menggunakan pada versi ini dengan locale en-us|
 
 ## Installation
 
