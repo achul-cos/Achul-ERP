@@ -11,13 +11,21 @@ Pengembangan aplikasi ERP dengan menggunakan Odoo sebagai platformnya, menghasil
 
 - [Achul ERP](#achul-erp)
     - [Table Of Content](#table-of-contents)
+    - [Requirments](#requirements)
+    - [Installation](#installation)
+        - [Installation Achul ERP](#installation-achul-erp)
+        - [Installation Odoo](#installation-odoo)
+        - [Installation Python Virtual Environment and Packages](#installation-python-virtual-environment)
+    - [Configuration](#configuration)
+        - [Odoo Configuraion](#odoo-configuration)
+    - [Usage](#usage)
 
-## Requirement
+## Requirements
 
 Untuk dapat menginstall dan menggunakan projet ini, pada perangkat anda diperlukan menginstall perangkat lunak sebagai berikut:
 
 | Nama | Versi | Keterangan |
-|------|-------|
+|------|-------|------------|
 | Python | 3.8 | Disarankan menggunakan pada versi ini|
 | PostgresSQL| 13 | Disaranakn menggunakan pada versi ini dengan locale en-us|
 
